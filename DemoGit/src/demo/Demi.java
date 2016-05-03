@@ -1,5 +1,5 @@
 package demo;
 
-public class demo {
+public class Demi {
 
 }
